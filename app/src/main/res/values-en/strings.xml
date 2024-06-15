@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calcula IMC</string>
+    <string name="peso">Weight:</string>
+    <string name="altura">Height:</string>
+    <string name="hint_peso">Weight (Pounds)</string>
+    <string name="hint_altura">Height (Inch)</string>
+    <string name="imc">BMI:</string>
+    <string name="zeros">0.0</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpar">Clear</string>
+    <string name="toast_cleanr_message">Clean Fields</string>
+    <string name="erro_peso">Weight field must be filled in.</string>
+    <string name="erro_altura">Height field must be filled in.</string>
+</resources>
